@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040115"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Cantidad de usuarios matriculados por curso]]></name>
+<summary><![CDATA[<p>Muestra el número total de usuarios matriculados, de todos los roles en cada curso. Ordenado por nombre del curso<br></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[50]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6MjQzOiJTRUxFQ1QrYy5mdWxsbmFtZSUyQytDT1VOVCUyOHVlLmlkJTI5K0FTK01hdHJpY3VsYWRvcyUwRCUwQUZST00rcHJlZml4X2NvdXJzZStBUytjKyUwRCUwQUpPSU4rcHJlZml4X2Vucm9sK0FTK2VuK09OK2VuLmNvdXJzZWlkKyUzRCtjLmlkJTBEJTBBSk9JTitwcmVmaXhfdXNlcl9lbnJvbG1lbnRzK0FTK3VlK09OK3VlLmVucm9saWQrJTNEK2VuLmlkJTBEJTBBR1JPVVArQlkrYy5pZCUwRCUwQU9SREVSK0JZK2MuZnVsbG5hbWUiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTU6Ikd1YXJkYXIrY2FtYmlvcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
