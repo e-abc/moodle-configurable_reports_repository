@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040115"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Cantidad de usuarios con rol estudiante por curso]]></name>
+<summary><![CDATA[<p>Muestra un listado de cursos que tienen algún usuario matriculado con el rol estudiante y la cantidad de éstos. Los campos están enlazados para ver el detalle de cada registro</p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[50]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6ODE3OiJTRUxFQ1QrY29uY2F0JTI4JTI3JTNDYSt0YXJnZXQlM0QlMjJfbmV3JTIyK2hyZWYlM0QlMjIlMjUlMjVXV1dST09UJTI1JTI1JTJGY291cnNlJTJGdmlldy5waHAlM0ZpZCUzRCUyNyUyQ2NvdXJzZS5pZCUyQyUyNyUyMiUzRSUyNyUyQ2NvdXJzZS5mdWxsbmFtZSUyQyUyNyUzQyUyRmElM0UlMjclMjkrQVMrQ3Vyc28lMEQlMEElMkNjb25jYXQlMjglMjclM0NhK3RhcmdldCUzRCUyMl9uZXclMjIraHJlZiUzRCUyMiUyNSUyNVdXV1JPT1QlMjUlMjUlMkZ1c2VyJTJGaW5kZXgucGhwJTNGY29udGV4dGlkJTNEJTI3JTJDY29udGV4dC5pZCUyQyUyNyUyMiUzRU1vc3RyYXIrVXN1YXJpb3MlM0MlMkZhJTNFJTI3JTI5K0FTK1VzdWFyaW9zJTBEJTBBJTJDK0NPVU5UJTI4Y291cnNlLmlkJTI5K0FTK0VzdHVkaWFudGVzJTBEJTBBRlJPTStwcmVmaXhfcm9sZV9hc3NpZ25tZW50cytBUythc2clMEQlMEFKT0lOK3ByZWZpeF9jb250ZXh0K0FTK2NvbnRleHQrT04rYXNnLmNvbnRleHRpZCslM0QrY29udGV4dC5pZCtBTkQrY29udGV4dC5jb250ZXh0bGV2ZWwrJTNEKzUwJTBEJTBBSk9JTitwcmVmaXhfdXNlcitBUytVU0VSK09OK1VTRVIuaWQrJTNEK2FzZy51c2VyaWQlMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrQVMrY291cnNlK09OK2NvbnRleHQuaW5zdGFuY2VpZCslM0QrY291cnNlLmlkJTBEJTBBV0hFUkUrYXNnLnJvbGVpZCslM0QrNSslMEQlMEElMjMrQU5EK2NvdXJzZS5mdWxsbmFtZStMSUtFKyUyNyUyNTIwMTMlMjUlMjclMEQlMEFHUk9VUCtCWStjb3Vyc2UuaWQlMEQlMEFPUkRFUitCWStDT1VOVCUyOGNvdXJzZS5pZCUyOStERVNDIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjE1OiJHdWFyZGFyK2NhbWJpb3MiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6NjoiY291cnNlIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
