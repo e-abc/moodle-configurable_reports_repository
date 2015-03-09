@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040115"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Listado de actividades SCORM finalizadas por nombre de curso]]></name>
+<summary><![CDATA[Muestra un listado de usuarios que finalizaron algún scorm y el curso al cual pertenece esta actividad]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[50]]></pagination>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NDY4OiJTRUxFQ1QrdS5maXJzdG5hbWUrTm9tYnJlJTJDdS5sYXN0bmFtZStBcGVsbGlkbyUyQ2MuZnVsbG5hbWUrQ3Vyc28lMkMrc3QuYXR0ZW1wdCtJbnRlbnRvJTJDc3QuVkFMVUUrRXN0YWRvJTJDRlJPTV9VTklYVElNRSUyOHN0LnRpbWVtb2RpZmllZCUyQyUyMiUyNW0tJTI1ZC0lMjVZJTIyJTI5K0ZlY2hhKyUwRCUwQUZST00rcHJlZml4X3Njb3JtX3Njb2VzX3RyYWNrK0FTK3N0KyUwRCUwQUpPSU4rcHJlZml4X3VzZXIrQVMrdStPTitzdC51c2VyaWQlM0R1LmlkJTBEJTBBSk9JTitwcmVmaXhfc2Nvcm0rQVMrc2MrT04rc2MuaWQlM0RzdC5zY29ybWlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlK0FTK2MrT04rYy5pZCUzRHNjLmNvdXJzZSUwRCUwQVdIRVJFK3N0LlZBTFVFJTNEJTI3Y29tcGxldGVkJTI3KyUwRCUwQU9SREVSK0JZK2MuZnVsbG5hbWUlMkMrdS5sYXN0bmFtZSUyQ3UuZmlyc3RuYW1lJTJDK3N0LmF0dGVtcHQiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319czo0OiJwbG90IjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MDp7fX1zOjc6ImZpbHRlcnMiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fX0=]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
