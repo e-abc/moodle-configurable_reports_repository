@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040115"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Estado de finalizacion del curso]]></name>
+<summary><![CDATA[<p>Lista de estado de finalización del curso por nombre de usuario. El campo finalizado se completa con la fecha de finalización, sino se deja en blanco<br></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6Mzg1OiJTRUxFQ1QrdS51c2VybmFtZSthcyslMjdOb21icmUrZGUrdXN1YXJpbyUyNyUyQytjLnNob3J0bmFtZSthcyslMjdDdXJzbyUyNyUyQysrJTBEJTBBREFURV9GT1JNQVQlMjhGUk9NX1VOSVhUSU1FJTI4cC50aW1lY29tcGxldGVkJTBEJTBBJTI5JTJDJTI3JTI1WS0lMjVtLSUyNWQlMjclMjkrJTBEJTBBQVMrRmluYWxpemFkbyUwRCUwQUZST00rcHJlZml4X2NvdXJzZV9jb21wbGV0aW9ucytBUytwJTBEJTBBSk9JTitwcmVmaXhfY291cnNlK0FTK2MrT04rcC5jb3Vyc2UrJTNEK2MuaWQlMEQlMEFKT0lOK3ByZWZpeF91c2VyK0FTK3UrT04rcC51c2VyaWQrJTNEK3UuaWQlMEQlMEFXSEVSRStjLmVuYWJsZWNvbXBsZXRpb24rJTNEKzElMEQlMEFPUkRFUitCWSt1LnVzZXJuYW1lIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjE1OiJHdWFyZGFyK2NhbWJpb3MiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+</report>
