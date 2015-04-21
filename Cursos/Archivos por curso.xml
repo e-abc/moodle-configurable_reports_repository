@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040105"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Archivos por curso]]></name>
+<summary><![CDATA[<p><span>Lista un registro por archivo por curso, con los Mb ocupados</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[19]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjI6e3M6ODoicXVlcnlzcWwiO3M6NDU4OiJTRUxFQ1QrZi5pZCUyQytmLmNvbXBvbmVudCthcytDb21wb25lbnRlJTJDK2YuZmlsZWFyZWErYXMrQXJlYSUyQytjLmZ1bGxuYW1lK2FzK0N1cnNvJTJDK2Muc2hvcnRuYW1lK2FzK05vbWJyZV9Db3J0byUyQ2YuZmlsZW5hbWUrYXMrQXJjaGl2byUyQytmLmZpbGVzaXplK2FzK0J5dGVzK0ZST00rKyU2MHByZWZpeF9maWxlcyU2MCtmK0pPSU4rcHJlZml4X2NvbnRleHQrY28rT04rZi5jb250ZXh0aWQrJTNEK2NvLmlkK0pPSU4rcHJlZml4X2NvdXJzZV9tb2R1bGVzK2NtK09OK2NtLmlkKyUzRCtjby5pbnN0YW5jZWlkK0pPSU4rcHJlZml4X2NvdXJzZStjK09OK2NtLmNvdXJzZSslM0QrYy5pZCtXSEVSRStmaWxlc2l6ZSslM0MlM0UwK0FORCtmaWxlYXJlYSslM0MlM0UrKyUyN2RyYWZ0JTI3K0FORCtjby5jb250ZXh0bGV2ZWwrJTNENzArb3JkZXIrYnkrYy5pZCslMkMrY20uY291cnNlKyUyQytjbS5pZCI7czoxMjoic3VibWl0YnV0dG9uIjtzOjE1OiJHdWFyZGFyK2NhbWJpb3MiO319fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+</report>

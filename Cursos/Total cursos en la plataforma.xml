@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040105"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Total cursos en la plataforma]]></name>
+<summary><![CDATA[<p><span>Muestra el espacio total ocupado por los archivos de los cursos de la plataforma</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[19]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjI6e3M6ODoicXVlcnlzcWwiO3M6MzcwOiJTRUxFQ1QrK3N1bSUyOGYuZmlsZXNpemUlMjklMkYxMDAwMDAwK2FzKyUyN1RvdGFsK2N1cnNvcytlbitNQiUyNyUwRCUwQUZST00rKyU2MHByZWZpeF9maWxlcyU2MCtmKyUwRCUwQUpPSU4rcHJlZml4X2NvbnRleHQrY28rT04rZi5jb250ZXh0aWQrJTNEK2NvLmlkKyUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZV9tb2R1bGVzK2NtK09OK2NtLmlkKyUzRCtjby5pbnN0YW5jZWlkKyUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStjK09OK2NtLmNvdXJzZSslM0QrYy5pZCslMEQlMEFXSEVSRSslMEQlMEFmaWxlc2l6ZSslM0MlM0UwK0FORCslMEQlMEFmaWxlYXJlYSslM0MlM0UrKyUyN2RyYWZ0JTI3K0FORCslMEQlMEFjby5jb250ZXh0bGV2ZWwrJTNENzArIjtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTU6Ikd1YXJkYXIrY2FtYmlvcyI7fX19]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+</report>

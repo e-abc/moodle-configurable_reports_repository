@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040105"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Usuarios que no estan matriculados en cursos]]></name>
+<summary><![CDATA[<p><span>Lista los usuarios no matriculados a ningún curso.</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[19]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjI6e3M6ODoicXVlcnlzcWwiO3M6NDU1OiJTRUxFQ1QrdS51c2VybmFtZSUyQ3UuZmlyc3RuYW1lKyUyQyt1Lmxhc3RuYW1lJTBEJTBBRlJPTSsrJTYwcHJlZml4X3VzZXIlNjArYXMrdSUwRCUwQVdIRVJFK2lkK05PVCslMEQlMEFJTislMjglMEQlMEFTRUxFQ1QrdS5pZCUwRCUwQUZST00rcHJlZml4X3VzZXIrQVMrdSUyQysrJTYwcHJlZml4X3JvbGVfYXNzaWdubWVudHMlNjArQVMrciUwRCUwQVdIRVJFK3UuaWQrJTNEK3IudXNlcmlkJTBEJTBBQU5EK3JvbGVpZCslM0QxJTBEJTBBJTI5JTBEJTBBYW5kK2lkK25vdCtpbislMjhzZWxlY3QrdXNlcmlkK2Zyb20rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrJTI5JTBEJTBBQU5EK2RlbGV0ZWQrJTNDJTNFKzElMEQlMEFhbmQrdS5pZCslM0MlM0UxJTBEJTBBYW5kK3UuaWQrJTNDJTNFMiUwRCUwQWFuZCt1LmlkKyUzQyUzRTMlMEQlMEFvcmRlcitieSsrdS5sYXN0bmFtZSUyQ3UuZmlyc3RuYW1lKyI7czoxMjoic3VibWl0YnV0dG9uIjtzOjE1OiJHdWFyZGFyK2NhbWJpb3MiO319fQ==]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+</report>

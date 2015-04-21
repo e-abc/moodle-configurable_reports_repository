@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040105"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Espacio ocupado por curso]]></name>
+<summary><![CDATA[<p><span>Lista un registro por curso, con los Mb ocupados (incluye en la lista los archivos asociados al curso)</span></p>]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[19]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjI6e3M6ODoicXVlcnlzcWwiO3M6NDAwOiJTRUxFQ1QrYy5mdWxsbmFtZSthcytDdXJzbyUyQytjLnNob3J0bmFtZSthcytOb21icmVfQ29ydG8lMkMrc3VtJTI4Zi5maWxlc2l6ZSUyOSUyRjEwMDAwMDArYXMrTUIrRlJPTSsrJTYwcHJlZml4X2ZpbGVzJTYwK2YrSk9JTitwcmVmaXhfY29udGV4dCtjbytPTitmLmNvbnRleHRpZCslM0QrY28uaWQrSk9JTitwcmVmaXhfY291cnNlX21vZHVsZXMrY20rT04rY20uaWQrJTNEK2NvLmluc3RhbmNlaWQrSk9JTitwcmVmaXhfY291cnNlK2MrT04rY20uY291cnNlKyUzRCtjLmlkK1dIRVJFK2ZpbGVzaXplKyUzQyUzRTArQU5EK2ZpbGVhcmVhKyUzQyUzRSsrJTI3ZHJhZnQlMjcrQU5EK2NvLmNvbnRleHRsZXZlbCslM0Q3MCtncm91cCtieStDdXJzbyUyQ05vbWJyZV9Db3J0bytvcmRlcitieStNQitkZXNjIjtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTU6Ikd1YXJkYXIrY2FtYmlvcyI7fX19]]></components>
+<export><![CDATA[ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+</report>
