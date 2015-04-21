@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2011040115"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Cursos cohortes y grupos]]></name>
+<summary><![CDATA[Listado de cursos con sus cohortes y grupos.]]></summary>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[30]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo2OiJvYmplY3QiOjY6e3M6ODoicXVlcnlzcWwiO3M6NDczOiJTRUxFQ1QrJTBEJTBBY29uY2F0JTI4JTI3JTNDYStocmVmJTNEJTIyJTI1JTI1V1dXUk9PVCUyNSUyNSUyRmNvdXJzZSUyRnZpZXcucGhwJTNGaWQlM0QlMjclMkNjLmlkJTJDJTI3JTIyJTNFJTI3JTJDYy5mdWxsbmFtZSUyQyUyNyUzQyUyRmElM0UlMjclMjkrYXMrY3Vyc28lMkMlMEQlMEFjby5uYW1lK2FzK2NvaG9ydGUrJTJDKyUwRCUwQWcubmFtZSthcytncnVwbyUwRCUwQUZST00rJTYwcHJlZml4X2Vucm9sJTYwK2UrJTBEJTBBam9pbitwcmVmaXhfY291cnNlK2Mrb24rYy5pZCslM0QrK2UuY291cnNlaWQlMEQlMEFqb2luK3ByZWZpeF9jb2hvcnQrY28rb24rY28uaWQrJTNEK2UuY3VzdG9taW50MSUwRCUwQWxlZnQram9pbitwcmVmaXhfZ3JvdXBzK2crb24rZy5pZCslM0QrZS5jdXN0b21pbnQyJTBEJTBBV0hFUkUrZW5yb2wrbGlrZSslMjdjb2hvcnQlMjclMEQlMEFvcmRlcitieStjdXJzbyUyQ2NvaG9ydGUlMkNncnVwbyI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxNToiR3VhcmRhcitjYW1iaW9zIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
